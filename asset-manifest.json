@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/formmail/static/css/main.a2768fa6.chunk.css",
+    "main.js": "/formmail/static/js/main.b951984f.chunk.js",
+    "main.js.map": "/formmail/static/js/main.b951984f.chunk.js.map",
+    "runtime-main.js": "/formmail/static/js/runtime-main.c1290681.js",
+    "runtime-main.js.map": "/formmail/static/js/runtime-main.c1290681.js.map",
+    "static/js/2.de8568c8.chunk.js": "/formmail/static/js/2.de8568c8.chunk.js",
+    "static/js/2.de8568c8.chunk.js.map": "/formmail/static/js/2.de8568c8.chunk.js.map",
+    "static/js/3.55075994.chunk.js": "/formmail/static/js/3.55075994.chunk.js",
+    "static/js/3.55075994.chunk.js.map": "/formmail/static/js/3.55075994.chunk.js.map",
+    "index.html": "/formmail/index.html",
+    "static/css/main.a2768fa6.chunk.css.map": "/formmail/static/css/main.a2768fa6.chunk.css.map",
+    "static/js/2.de8568c8.chunk.js.LICENSE.txt": "/formmail/static/js/2.de8568c8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/formmail/static/media/logo.6ce24c58.svg",
+    "static/media/slogo.fa020e01.png": "/formmail/static/media/slogo.fa020e01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1290681.js",
+    "static/js/2.de8568c8.chunk.js",
+    "static/css/main.a2768fa6.chunk.css",
+    "static/js/main.b951984f.chunk.js"
+  ]
+}
